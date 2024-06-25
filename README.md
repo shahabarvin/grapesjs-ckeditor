@@ -2,6 +2,8 @@
 
 This repository contains a custom CKEditor integration for use with Laravel and GrapesJS.
 
+![Screenshot](https://github.com/shahabarvin/grapesjs-ckeditor/assets/13568690/0b580cc5-bcab-4126-ab26-722903ba299a)
+
 ## Installation
 
 To use this integration in your Laravel project:
